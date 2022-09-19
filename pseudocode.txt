@@ -1,0 +1,27 @@
+Store “Pil” as chart 
+Store “menu” as  integer
+
+if(menu==1
+display
+display “selamat anda pilih coto nasi"
+store"mau bungkus atau makan disini";
+store"pilihan anda adalah:"
+
+if((pil=='B')||(pil=='b')){
+display"ini pesanan anda silahkan bayar dikasir"
+else if((pil=='M')||(pil=='m')){
+display"silahkan menunggu dimeja makan"
+else{
+display"pilihan anda tidak tersedia"
+else if(menu==2)
+store"selamat anda pilih coto ketupat"
+display"mau bungkus atau makan disini”
+       store"pilihan anda adalah"
+if((pil=='B')||(pil='b')){
+display"ini pesanan anda silahkan bayar dikasir"
+else if((pil=='M') || (pil='m')){
+display" menunggu dimeja yang disediakan"
+else if((pil=='M')||(pil=='m')){
+display" menunggu dimeja makan"
+else
+display"pilihan anda tidak tersedia"
